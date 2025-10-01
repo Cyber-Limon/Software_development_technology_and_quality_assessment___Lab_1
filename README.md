@@ -1,2 +1,1 @@
-# Software_development_technology_and_quality_assessment___Lab_1
-УУНиТ
+# Технология разработки программного обеспечения и оценка качества | Лабораторная работа 1
